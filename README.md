@@ -1,12 +1,9 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/41ab2601-d966-4c43-8d59-b8430bb1fd00
+This project is an AI-powered agent orchestration platform.
+It allows you to configure multiple AI agents with custom personas and orchestrate them in a collaborative discussion. The application features:
+Orchestration Engine: A central orchestrator agent that moderates the discussion, manages conversation history, and dynamically decides which agent should speak next.
+Interactive Simulation: A real-time simulation environment where you can start, pause, and stop agent discussions, and intervene with your own commands at any time.
+Configurable Agents: A flexible interface to add and customize agents, including their personas and API configurations.
+Modern UI: A clean, dark-themed interface with Markdown support for formatted discussion output.
 
 ## Run Locally
 

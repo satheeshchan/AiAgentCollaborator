@@ -1,0 +1,5 @@
+{
+  "name": "AgentCollaborator",
+  "description": "Create and simulate interactions between multiple AI agents with custom personas to solve tasks together.",
+  "requestFramePermissions": []
+}

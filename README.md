@@ -4,6 +4,7 @@ Orchestration Engine: A central orchestrator agent that moderates the discussion
 Interactive Simulation: A real-time simulation environment where you can start, pause, and stop agent discussions, and intervene with your own commands at any time.
 Configurable Agents: A flexible interface to add and customize agents, including their personas and API configurations.
 Modern UI: A clean, dark-themed interface with Markdown support for formatted discussion output.
+This App is vibe coded using Google AI studio.
 
 ## Run Locally
 
